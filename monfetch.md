@@ -64,6 +64,13 @@ theme: metropolis
 * Installation Client\pause
 * Aufsetzen von systemd-Services
 
+# Schritte nach der Demonstration
+
+* Den uWSGI-Server reverse-proxien\pause
+* HTTPS einrichten (Schutz gegen MITM-Attacken)\pause
+* Alles außer / blocken (Schutz gegen Passwort-Brute-Force)\pause
+* Aktuell halten per `git stash && git pull && git stash pop`
+
 # Ende
 
 Gibt es noch Fragen?
